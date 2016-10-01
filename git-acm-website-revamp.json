@@ -1,0 +1,102 @@
+{
+    "repo_name": "acm-website-revamp",
+    "commits": {
+        "644a40687d8741014277ce021cfd415a0ee0f681": {
+            "parent": "99979eebcedc15c100db17cfae521c17cb428b86",
+            "message": "Adding footer links",
+            "author": "Unknown <lannonbr@clarkson.edu>"
+        },
+        "99979eebcedc15c100db17cfae521c17cb428b86": {
+            "parent": "5683c5b41999d99ef4b41c063642626cbec60bf4",
+            "message": "add about template content",
+            "author": "Jesse Peplinski <peplinski.jesse@gmail.com>"
+        },
+        "5683c5b41999d99ef4b41c063642626cbec60bf4": {
+            "parent": "3b3b3df3ab69ece9522b58001557e9a4a93b9b64",
+            "message": "Updating Homepage as well as more tweaking to styling",
+            "author": "Unknown <lannonbr@clarkson.edu>"
+        },
+        "3b3b3df3ab69ece9522b58001557e9a4a93b9b64": {
+            "parent": "2d522f006ec5e69d0f82a10a4961bfe2dade96b9",
+            "message": "add proper path to app",
+            "author": "Jesse Peplinski <peplinski.jesse@gmail.com>"
+        },
+        "2d522f006ec5e69d0f82a10a4961bfe2dade96b9": {
+            "parent": "156077e0f511c029c542267b1fc2a786e83aa958",
+            "message": "rename file",
+            "author": "Jesse Peplinski <peplinski.jesse@gmail.com>"
+        },
+        "156077e0f511c029c542267b1fc2a786e83aa958": {
+            "parent": "c5905ed53125c5790b49e2eded43445a6064f455",
+            "message": "add file so the app can run forever",
+            "author": "Jesse Peplinski <peplinski.jesse@gmail.com>"
+        },
+        "c5905ed53125c5790b49e2eded43445a6064f455": {
+            "parent": "181ea344ffc597d29dac184915dfb49799072d01",
+            "message": "Removing docserver",
+            "author": "Unknown <lannonbr@clarkson.edu>"
+        },
+        "181ea344ffc597d29dac184915dfb49799072d01": {
+            "parent": "a97f23c15a75e0e179ac3affc88f061a1b1736e5",
+            "message": "Swapped two links in Navbar",
+            "author": "Unknown <lannonbr@clarkson.edu>"
+        },
+        "a97f23c15a75e0e179ac3affc88f061a1b1736e5": {
+            "parent": "2619ea7cb46222d75737d574cb77cf76f5ac524e",
+            "message": "add links to focus groups & events for calendars",
+            "author": "Jesse Peplinski <peplinski.jesse@gmail.com>"
+        },
+        "2619ea7cb46222d75737d574cb77cf76f5ac524e": {
+            "parent": "af0beb7301306d5e0003021869e659fa50ee9e2b",
+            "message": "Boilerplating pages out & adding Friends Page",
+            "author": "Unknown <lannonbr@clarkson.edu>"
+        },
+        "af0beb7301306d5e0003021869e659fa50ee9e2b": {
+            "parent": "dc2f38b1fd9e68e91a9024653a7edfa7d7803b68",
+            "message": "Focus Group route as well",
+            "author": "Unknown <lannonbr@clarkson.edu>"
+        },
+        "dc2f38b1fd9e68e91a9024653a7edfa7d7803b68": {
+            "parent": "22e4ed884bc24139041363775f2052a517f9889b",
+            "message": "Adding Focus Groups page",
+            "author": "Unknown <lannonbr@clarkson.edu>"
+        },
+        "22e4ed884bc24139041363775f2052a517f9889b": {
+            "parent": "0ccf46349276906cb97ed42207186a23487fc61e",
+            "message": "Working on Main page layout",
+            "author": "Unknown <lannonbr@clarkson.edu>"
+        },
+        "0ccf46349276906cb97ed42207186a23487fc61e": {
+            "parent": "04bc32ec039c1c59a68cfa92f53afe3680d5a547",
+            "message": "Adding express boilerplate",
+            "author": "Unknown <lannonbr@clarkson.edu>"
+        },
+        "04bc32ec039c1c59a68cfa92f53afe3680d5a547": {
+            "parent": "949df2bb4fe45d2931c914d493aee8fc947024ef",
+            "message": "fix sitemap heading",
+            "author": "Jesse Peplinski <peplinski.jesse@gmail.com>"
+        },
+        "949df2bb4fe45d2931c914d493aee8fc947024ef": {
+            "parent": "0b7d1e0f1f5adaa3aad20b4df86194de378166e0",
+            "message": "Merge branch 'master' of https://github.com/PotsdamACM/acm-website-revamp",
+            "author": "Jesse Peplinski <peplinski.jesse@gmail.com>"
+        },
+        "40a793188777f8d715603d76f38f39ff4791c287": {
+            "parent": "9e3ea739f4233ddedf5eb7054e0609d7cc3eaa6e",
+            "message": "Update README.md\n\nI updated the README to include the sitemap & overall vision for the\nsite.",
+            "author": "Jesse Peplinski <peplinski.jesse@gmail.com>"
+        },
+        "9e3ea739f4233ddedf5eb7054e0609d7cc3eaa6e": {
+            "parent": "",
+            "message": "Initial Commit",
+            "author": "Benjamin Lannon <lannonbr@clarkson.edu>"
+        },
+        "0b7d1e0f1f5adaa3aad20b4df86194de378166e0": {
+            "parent": "9e3ea739f4233ddedf5eb7054e0609d7cc3eaa6e",
+            "message": "Update README.md\n\nI updated the README to include the sitemap & overall vision for the\nsite.",
+            "author": "Jesse Peplinski <peplinski.jesse@gmail.com>"
+        }
+    },
+    "numCommits": 19,
+    "master_commit": "644a40687d8741014277ce021cfd415a0ee0f681"
+}
