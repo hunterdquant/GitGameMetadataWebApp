@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>GitGame Metadata</title>
+    <style>
+        @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+        body {
+            font-family: 'Open Sans';
+            max-width: 960px;
+            margin: 0 auto;
+            text-align: center;
+            background-image: url('/stardust.png');
+        }
+        
+        .container {
+            margin-left: 8px;
+            margin-right: 8px;
+            background-color: white;
+            box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.4);
+            margin-top: 160px;
+            padding-top: 10px;
+            padding-bottom: 20px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>GitGame Metadata Webapp</h1>
+
+        <h2>Find Repo:</h2>
+        <input type="text" placeholder="repo name..." id="repoInput">
+        <button onclick="searchRepo()">Get Repo Data</button>
+    </div>
+
+    <script>
+        function searchRepo() {
+            let repo_name = document.getElementById("repoInput").value;
+            window.open("/repo/" + repo_name, "_self");
+        }
+    </script>
+</body>
+
+</html>
